@@ -7,7 +7,7 @@
 ## Executive Summary
 
 PropMarker has successfully positioned itself as an AI-powered property
-intelligence platform with 200 serious investors currently subscribed.
+intelligence platform with  serious investors currently subscribe
 
 We have built:
 
@@ -106,7 +106,7 @@ Paid users: - Unlimited AI queries\
 
 1.  Develop iOS app using React Native\
 2.  Backend remains Laravel API\
-3.  Invite 200 existing subscribers first\
+3.  Invite existing subscribers first\
 4.  Encourage beta testing & collect feedback\
 5.  Refine and launch publicly
 
